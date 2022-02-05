@@ -105,8 +105,15 @@ Make sure the Ganache has started (you can use the quickstart).
 Then run the compile and migrate commands in the root of the project:
 
 ```bash
+truffle develop
 truffle compile
 truffle migrate
+```
+
+If there is an error of out of gas or anythin try:
+
+```bash
+truffle migrate --reset
 ```
 
 Finally navigate to the `/vapp` folder and run the Vue app:
