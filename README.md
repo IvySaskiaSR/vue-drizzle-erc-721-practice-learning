@@ -1,3 +1,5 @@
+I am practicing and learning from https://github.com/remote-gildor/vue-drizzle-erc-721-example
+-----------------------
 # An ERC-721 example made with Truffle, Drizzle, and Vue
 
 An ERC-721 where the NFT token can be separated into multiple categories (shapes):
